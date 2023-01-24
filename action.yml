@@ -1,5 +1,5 @@
 # action.yml
-name: 'Docker Run Action'
+name: 'Docker Run Action msp-in'
 description: 'Run a command in a new container'
 inputs:
   image:
